@@ -20,20 +20,26 @@
 - 검색창에서 레포지토리를 검색할 수 있습니다.
 - 등록된 레포지토리가 있으면 아래에 등록된 레포지토리와 해당 레포지토리의 이슈리스트를 확인할 수 있습니다.
 - 아래 화살표를 클릭하면 검색된 레포지토리를 확인 할 수 있습니다.
+
 #### 검색
 ![search](https://user-images.githubusercontent.com/42308891/138709644-b8c3b7b1-9fca-4869-9768-64371146fb83.PNG)
 - 레포지토리를 검색하면 레포지토리명, 사용자아바타, 생성일자, 이슈 수, 스타 수를 확인 할 수 있습니다.
 - 위 화살표를 클릭하면 이슈리스트를 확인 할 수 있습니다.
+
 ![searchAction](https://user-images.githubusercontent.com/42308891/138710110-5ec2f8d1-b768-4c2a-978d-a1c7631acce9.PNG)
 - 등록하기 버튼으로 레포지토리를 등록할 수 있습니다.
 - 자세히보기 버튼으로 해당 레포지토리로 이동할 수 있습니다.
+
 ![addrepo](https://user-images.githubusercontent.com/42308891/138710630-66babf93-1f69-40b5-b888-0de5ae1a89ea.PNG)
 - 레포지토리를 등록하면 아래와같이 등록된 레포지토리를 확인할 수 있습니다.
+
 ![addrepoAction](https://user-images.githubusercontent.com/42308891/138711245-41540e4d-95ec-4606-8638-09ee1a3707ed.PNG)
 - 삭제하기 버튼을 클릭하면 등록 레포지토리 리스트에서 해당 레포지토리를 삭제할 수 있습니다.
 - 자세히보기 버튼으로 해당 레포지토리로 이동할 수 있습니다.
+
 ![warning](https://user-images.githubusercontent.com/42308891/138710383-3b5e33d2-ed38-4585-8480-19ca98a33491.PNG)
 - 레포지토리는 4개까지만 등록 가능합니다.
+
 #### 이슈
 ![issue](https://user-images.githubusercontent.com/42308891/138710750-614165b4-ca22-4fc9-9279-bebcaab3c193.PNG)
 - 이슈 리스트와 등록된 레포지토리를 확인할 수 있습니다.
